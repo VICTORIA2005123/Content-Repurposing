@@ -1,1 +1,162 @@
-
+[
+  {
+    "id": "TC01",
+    "label": "University AI Laboratory",
+    "category": "education",
+    "article": "Marwadi University announced the launch of a new artificial intelligence laboratory on September 15, 2026. The university said the facility represents an investment of ₹50 lakh and is expected to support approximately 200 students. The laboratory will provide students with access to AI development and research resources.",
+    "expected_facts": [
+      "Marwadi University",
+      "September 15, 2026",
+      "₹50 lakh",
+      "approximately 200 students",
+      "launch of a new artificial intelligence laboratory",
+      "AI development and research resources"
+    ]
+  },
+  {
+    "id": "TC02",
+    "label": "Technology Product Launch",
+    "category": "technology",
+    "article": "NovaTech introduced its Atlas smartphone in Bengaluru on October 2, 2026. The company said the device includes a 6.7-inch display, 256 GB of storage, and a battery rated at 5,000 mAh. NovaTech announced that the phone will be available in India from October 10 at a starting price of ₹39,999.",
+    "expected_facts": [
+      "NovaTech",
+      "Atlas smartphone",
+      "Bengaluru",
+      "October 2, 2026",
+      "6.7-inch display",
+      "256 GB storage",
+      "5,000 mAh battery",
+      "October 10",
+      "₹39,999",
+      "India"
+    ]
+  },
+  {
+    "id": "TC03",
+    "label": "Renewable Energy Project",
+    "category": "environment",
+    "article": "GreenGrid Energy announced plans to build a 120-megawatt solar power facility near Jaipur, Rajasthan. Construction is scheduled to begin in January 2027, with operations expected to start by December 2027. The company said the project will cover approximately 600 acres and create about 350 temporary construction jobs.",
+    "expected_facts": [
+      "GreenGrid Energy",
+      "120-megawatt solar power facility",
+      "Jaipur, Rajasthan",
+      "January 2027",
+      "December 2027",
+      "approximately 600 acres",
+      "about 350 temporary construction jobs"
+    ]
+  },
+  {
+    "id": "TC04",
+    "label": "Healthcare Research",
+    "category": "healthcare",
+    "article": "Researchers at Western India Medical Institute reported results from a six-month study involving 480 volunteers. The study examined whether a digital reminder system could improve appointment attendance. According to the researchers, appointment attendance increased from 68 percent to 81 percent among participants using the system. The researchers said the findings require further study before broader conclusions can be drawn.",
+    "expected_facts": [
+      "Western India Medical Institute",
+      "six-month study",
+      "480 volunteers",
+      "digital reminder system",
+      "appointment attendance",
+      "68 percent",
+      "81 percent",
+      "findings require further study"
+    ]
+  },
+  {
+    "id": "TC05",
+    "label": "Public Transport Expansion",
+    "category": "transportation",
+    "article": "The city of Pune announced a new electric bus program on November 5, 2026. The first phase will add 75 electric buses to three existing routes. City officials said the buses are expected to begin service in March 2027. The program has an allocated budget of ₹85 crore and includes plans for 12 charging stations.",
+    "expected_facts": [
+      "Pune",
+      "November 5, 2026",
+      "75 electric buses",
+      "three existing routes",
+      "March 2027",
+      "₹85 crore",
+      "12 charging stations"
+    ]
+  },
+  {
+    "id": "TC06",
+    "label": "Business Expansion",
+    "category": "business",
+    "article": "Riverstone Foods said it will open a new food-processing facility in Indore, Madhya Pradesh, in April 2027. The company expects the facility to employ 180 workers when fully operational. Riverstone Foods said it has committed ₹32 crore to the project and expects initial production to focus on packaged grain products.",
+    "expected_facts": [
+      "Riverstone Foods",
+      "Indore, Madhya Pradesh",
+      "April 2027",
+      "180 workers",
+      "₹32 crore",
+      "packaged grain products"
+    ]
+  },
+  {
+    "id": "TC07",
+    "label": "Sports Event",
+    "category": "sports",
+    "article": "The Western States Athletics Federation announced that the 2027 Regional Track Championship will take place in Ahmedabad from February 12 to February 14, 2027. Organizers expect approximately 600 athletes from 18 districts to participate. The competition will include sprint, middle-distance, relay, and field events.",
+    "expected_facts": [
+      "Western States Athletics Federation",
+      "2027 Regional Track Championship",
+      "Ahmedabad",
+      "February 12 to February 14, 2027",
+      "approximately 600 athletes",
+      "18 districts",
+      "sprint events",
+      "middle-distance events",
+      "relay events",
+      "field events"
+    ]
+  },
+  {
+    "id": "TC08",
+    "label": "Cybersecurity Training",
+    "category": "cybersecurity",
+    "article": "SecurePath Institute announced a cybersecurity training program for small businesses in Gujarat. The program will begin on December 1, 2026, and will run for eight weeks. According to the institute, the course will cover password security, phishing awareness, software updates, and incident reporting. Enrollment will be limited to 100 participants.",
+    "expected_facts": [
+      "SecurePath Institute",
+      "cybersecurity training program",
+      "small businesses in Gujarat",
+      "December 1, 2026",
+      "eight weeks",
+      "password security",
+      "phishing awareness",
+      "software updates",
+      "incident reporting",
+      "100 participants"
+    ]
+  },
+  {
+    "id": "TC09",
+    "label": "Agriculture Technology",
+    "category": "agriculture",
+    "article": "AgriSense Technologies launched a pilot program using soil sensors on 40 farms in Gujarat. The program began in August 2026 and is designed to help farmers monitor soil moisture levels. The company said participating farms will receive sensor data through a mobile application. AgriSense Technologies said the pilot will continue for six months before the company evaluates the results.",
+    "expected_facts": [
+      "AgriSense Technologies",
+      "40 farms",
+      "Gujarat",
+      "August 2026",
+      "soil sensors",
+      "soil moisture levels",
+      "mobile application",
+      "six months",
+      "evaluation of results"
+    ]
+  },
+  {
+    "id": "TC10",
+    "label": "Museum Exhibition",
+    "category": "culture",
+    "article": "The City Heritage Museum in Vadodara opened an exhibition of historical photographs on September 20, 2026. The exhibition contains more than 300 photographs documenting urban life between 1950 and 1980. Museum officials said the collection was assembled from donations by 42 local families. The exhibition will remain open until January 15, 2027.",
+    "expected_facts": [
+      "City Heritage Museum",
+      "Vadodara",
+      "September 20, 2026",
+      "more than 300 photographs",
+      "1950 to 1980",
+      "42 local families",
+      "January 15, 2027"
+    ]
+  }
+]
